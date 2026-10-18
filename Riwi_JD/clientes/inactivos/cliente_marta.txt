@@ -1,0 +1,4 @@
+- Nombre: Marta Jimenez
+- Empresa: Panadería Aurora
+- Estado: Inactivo
+mart123@example.com

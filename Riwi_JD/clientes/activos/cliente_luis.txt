@@ -1,0 +1,4 @@
+- Nombre: Luis Ramirez
+- Empresa: Panadería Aurora
+- Estado: Activo
+luis-r@example.com
